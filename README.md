@@ -12,9 +12,8 @@
 
 ## 🖥 Front-end Stack
 
-
+<br/> 
 <div>
-	
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -22,26 +21,21 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-	
-	
-
-
 </div>
 
 <br/> 
 
   
-##
+## 🌱 GitHub stats
 ![narae's GitHub stats](https://github-readme-stats.vercel.app/api?username=narae90&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narae90&layout=compact)](https://github.com/narae90/github-readme-stats)
-
 
 <br/> 
 <br/> 
 
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&text=%20&fontSize=60)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&text=%20&fontSize=60)
   
 </div>
 
